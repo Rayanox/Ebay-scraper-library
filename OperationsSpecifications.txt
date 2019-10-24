@@ -1,0 +1,6 @@
+List of operations:
+
+- (To log in)
+- To post an offer
+- To delete an offer
+- To detect a new order (optional, it depends on the analysis I would have done) and get all the relevant informations.
